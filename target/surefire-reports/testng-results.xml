@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-07-18T02:10:22 IST" name="Surefire suite" finished-at="2026-07-18T02:10:27 IST" duration-ms="5324">
+  <suite started-at="2026-07-18T02:19:35 IST" name="Surefire suite" finished-at="2026-07-18T02:19:42 IST" duration-ms="6724">
     <groups>
     </groups>
-    <test started-at="2026-07-18T02:10:22 IST" name="Surefire test" finished-at="2026-07-18T02:10:27 IST" duration-ms="5324">
+    <test started-at="2026-07-18T02:19:35 IST" name="Surefire test" finished-at="2026-07-18T02:19:42 IST" duration-ms="6724">
       <class name="testcases.LoginTest">
-        <test-method is-config="true" signature="setupApplication()[pri:0, instance:testcases.LoginTest@479d31f3]" started-at="2026-07-18T02:10:22 IST" name="setupApplication" finished-at="2026-07-18T02:10:23 IST" duration-ms="1479" status="PASS">
+        <test-method is-config="true" signature="setupApplication()[pri:0, instance:testcases.LoginTest@479d31f3]" started-at="2026-07-18T02:19:35 IST" name="setupApplication" finished-at="2026-07-18T02:19:37 IST" duration-ms="1975" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupApplication -->
-        <test-method signature="validLoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginTest@479d31f3]" started-at="2026-07-18T02:10:24 IST" name="validLoginTest" description="This test will cover valid login scenario" data-provider="logindetails" finished-at="2026-07-18T02:10:27 IST" duration-ms="2797" status="PASS">
+        <test-method signature="validLoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginTest@479d31f3]" started-at="2026-07-18T02:19:38 IST" name="validLoginTest" description="This test will cover valid login scenario" data-provider="logindetails" finished-at="2026-07-18T02:19:41 IST" duration-ms="3183" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLoginTest -->
-        <test-method is-config="true" signature="tearDownApplication()[pri:0, instance:testcases.LoginTest@479d31f3]" started-at="2026-07-18T02:10:27 IST" name="tearDownApplication" finished-at="2026-07-18T02:10:27 IST" duration-ms="286" status="PASS">
+        <test-method is-config="true" signature="tearDownApplication()[pri:0, instance:testcases.LoginTest@479d31f3]" started-at="2026-07-18T02:19:41 IST" name="tearDownApplication" finished-at="2026-07-18T02:19:42 IST" duration-ms="253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownApplication -->
