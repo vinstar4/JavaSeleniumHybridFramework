@@ -1,6 +1,6 @@
 # JavaSeleniumHybridFramework
 
-A **data-driven Selenium test automation framework** for web UI testing, built with **Java + TestNG + Maven**, using the **Page Object Model (POM)** design pattern.
+A **hybrid-Selenium test automation framework** for web UI testing, built with **Java + TestNG + Maven**, using the **Page Object Model (POM)** design pattern.
 
 Currently automates one flow: **user login**, tested against `https://freelance-learn-automation.vercel.app` (a public demo app).
 
